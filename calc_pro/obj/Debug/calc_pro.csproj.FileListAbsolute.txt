@@ -1,0 +1,11 @@
+E:\csharp\Easy C# by Windows Forms Practical Projects Beginners to Pro\Section 6 Project Build Calculator\calc_pro_ns\calc_pro\bin\Debug\calc_pro.exe.config
+E:\csharp\Easy C# by Windows Forms Practical Projects Beginners to Pro\Section 6 Project Build Calculator\calc_pro_ns\calc_pro\bin\Debug\calc_pro.exe
+E:\csharp\Easy C# by Windows Forms Practical Projects Beginners to Pro\Section 6 Project Build Calculator\calc_pro_ns\calc_pro\bin\Debug\calc_pro.pdb
+E:\csharp\Easy C# by Windows Forms Practical Projects Beginners to Pro\Section 6 Project Build Calculator\calc_pro_ns\calc_pro\obj\Debug\calc_pro.csproj.AssemblyReference.cache
+E:\csharp\Easy C# by Windows Forms Practical Projects Beginners to Pro\Section 6 Project Build Calculator\calc_pro_ns\calc_pro\obj\Debug\calc_pro.csproj.SuggestedBindingRedirects.cache
+E:\csharp\Easy C# by Windows Forms Practical Projects Beginners to Pro\Section 6 Project Build Calculator\calc_pro_ns\calc_pro\obj\Debug\calc_pro.Form1.resources
+E:\csharp\Easy C# by Windows Forms Practical Projects Beginners to Pro\Section 6 Project Build Calculator\calc_pro_ns\calc_pro\obj\Debug\calc_pro.Properties.Resources.resources
+E:\csharp\Easy C# by Windows Forms Practical Projects Beginners to Pro\Section 6 Project Build Calculator\calc_pro_ns\calc_pro\obj\Debug\calc_pro.csproj.GenerateResource.cache
+E:\csharp\Easy C# by Windows Forms Practical Projects Beginners to Pro\Section 6 Project Build Calculator\calc_pro_ns\calc_pro\obj\Debug\calc_pro.csproj.CoreCompileInputs.cache
+E:\csharp\Easy C# by Windows Forms Practical Projects Beginners to Pro\Section 6 Project Build Calculator\calc_pro_ns\calc_pro\obj\Debug\calc_pro.exe
+E:\csharp\Easy C# by Windows Forms Practical Projects Beginners to Pro\Section 6 Project Build Calculator\calc_pro_ns\calc_pro\obj\Debug\calc_pro.pdb
